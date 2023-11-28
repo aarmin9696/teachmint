@@ -1,3 +1,22 @@
+
+## Installation 
+
+1. Clone the Repository: - open terminal/bash
+
+   git clone https://github.com/aarmin9696/teachmint.git
+
+2. Open the Cloned folder in VS code or in any other tool, open terminal on it.
+
+3. Install Dependencies:
+
+   npm install
+
+4. Start the Development Server:
+
+   npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
